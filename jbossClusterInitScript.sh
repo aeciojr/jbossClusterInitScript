@@ -33,13 +33,9 @@ _Usage(){
 clear
 echo "
 Este script trata-se de um fork elaborado pela Central IT para agilizar intervencoes nas instancias de aplicacao deste servico. 
- 
 **** O original foi mantido para intervencoes locais. *****
- 
 A proposta deste eh submeter comandos STOP/START/STATUS em todos os nodes do cluster.
- 
 IMPORTANTE: Este deve ser executado com o usuario \"$UsuarioRSA\" conforme usage:
- 
 Usage:
  
 Intervencoes no Node local:
